@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![Build Status](https://cloud.drone.io/api/badges/aLnProject/kernel_xiaomi_vayu/status.svg)](https://cloud.drone.io/aLnProject/kernel_xiaomi_vayu)
+
 <!---
 alanndzz/alanndzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
