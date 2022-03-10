@@ -14,7 +14,7 @@ d=`date '+%Y-%m-%dT%H:%M:%SZ'`
 
 echo "$(cat base)" > README.md
 
-echo -e "\n## LAST UPDATED AT: ${d}" >> README.md
+echo -e "\nLAST UPDATED AT: ${d}" >> README.md
 
 git config --local user.email "alanskydream@gmail.com"
 git config --local user.name "alanndzz"
